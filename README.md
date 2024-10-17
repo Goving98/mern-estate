@@ -19,23 +19,32 @@ MongoDB
 
 
 Installation
+```bash
 Clone the repository:
-git clone https://github.com/your-username/real-estate-platform.git
-
+git clone https://github.com/Goving98/mern-estate.git
+```
 Navigate to the project directory:
+```bash
 cd real-estate-platform
-
+```
 Install frontend dependencies:
+```bash
 npm install
+```
 
 Navigate to the backend directory:
+```bash
 cd backend
+```
 
 Install backend dependencies:
+```bash
 npm install
-
+```
 
 
 Usage
 Start the development server:
+```bash
 npm run dev
+```
